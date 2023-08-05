@@ -1,0 +1,14 @@
+.pokemon-details-wrapper{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pokemon-name{
+    margin-top:3px;
+}
+.pokemon-image{
+    margin-top:5px;
+    height:400px;
+}

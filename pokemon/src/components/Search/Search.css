@@ -1,0 +1,10 @@
+.search-wrapper{
+    margin:0 auto;
+}
+#search{
+    
+    width:600px;
+    margin-left:18rem;
+    margin-top:2rem;
+    padding:1rem;
+}

@@ -1,0 +1,7 @@
+.outer-pokedex{
+  display:flex;
+  flex-direction: column;
+}
+#heading{
+  margin:0 auto;
+}
